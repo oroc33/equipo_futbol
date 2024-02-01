@@ -1,3 +1,4 @@
 "Lista de jugadores" 
 "Raúl Albiol" 
 "Gerard Moreno" 
+"Dani Parejo" 
