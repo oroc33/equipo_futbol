@@ -1,1 +1,4 @@
 "Lista de entrenadores" 
+"Marcelino García Toral" 
+"Rubén Uría" 
+"juan pablo"

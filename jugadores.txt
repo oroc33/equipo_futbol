@@ -1,1 +1,7 @@
 "Lista de jugadores" 
+"Raúl Albiol" 
+"Gerard Moreno" 
+"Dani Parejo" 
+"Etiene Capoue" 
+"Alex Baena" 
+"pepe Juan"
