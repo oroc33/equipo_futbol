@@ -8,4 +8,5 @@
 "pepe domingo castaño"
 "esto es el jugador b"
 "jugador a"
+"Pepe Reina"
 
