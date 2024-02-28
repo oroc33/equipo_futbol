@@ -6,8 +6,7 @@
 "Alex Baena" 
 "pepe Juan"
 "pepe domingo castaño"
+<<<<<<< HEAD
 "esto es el jugador b"
 "jugador a"
 "Pepe Reina"
-
-pepepepep
